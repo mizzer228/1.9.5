@@ -1,0 +1,40 @@
+body{
+    width: 1920px;
+    height: 953px;
+    display: flex;
+    position: fixed;
+ justify-content: space-between;
+ cursor: url(aim.png), default;
+ background-image:url() ;
+ 
+}
+.jar{
+  
+   position: absolute;
+   height: 150px;
+   width: 150px;
+   background-image: url(baltika_0-150x150.png);
+
+    
+}
+.die {
+   height:150px;
+   width: 150px;
+   position: absolute;
+   background-image: url(bal;tik.png) ;
+   }
+
+   .count_can{
+      position:absolute;
+      width:100%;
+      top:5%;
+      text-align:center;
+   }
+
+   
+   .count{
+      position:absolute;
+      width:100%;
+      top:10%;
+      text-align:center;
+   }
